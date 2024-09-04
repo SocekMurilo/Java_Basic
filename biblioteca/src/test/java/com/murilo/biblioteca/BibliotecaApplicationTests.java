@@ -1,10 +1,10 @@
-package com.murilo_socek.java_basic;
+package com.murilo.biblioteca;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaBasicApplicationTests {
+class BibliotecaApplicationTests {
 
 	@Test
 	void contextLoads() {
